@@ -150,6 +150,7 @@ I am a graduate student specializing in Project Management with a strong concent
 ---
 
 ## Contact
-📧 Email: chandana.yalavarthi73@gmail.com  
-🔗 GitHub: https://github.com/chandana7373
-🔗 LinkedIn: https://www.linkedin.com/in/chandanayalavarthi/
+📧 Email: [chandana.yalavarthi73@gmail.com](mailto:chandana.yalavarthi73@gmail.com)  
+🔗 GitHub: [https://github.com/chandana7373](https://github.com/chandana7373)  
+🔗 LinkedIn: [https://www.linkedin.com/in/chandanayalavarthi/](https://www.linkedin.com/in/chandanayalavarthi/)
+
