@@ -145,7 +145,7 @@ I am a graduate student specializing in Project Management with a strong concent
 ---
 
 ## Resume
-📄 [Download Resume](./chandana_resume.pdf)
+📄 [Download Resume](./Chandana_resume.pdf)
 
 ---
 
