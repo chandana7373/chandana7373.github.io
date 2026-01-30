@@ -1,156 +1,156 @@
-# chandana7373.github.io
-Personal portfolio showcasing projects, analytics work, and academic assignments
+<h1 style="color:#2b6cb0;">🌐 chandana7373.github.io</h1>
+<p style="color:#4a5568;">
+  Personal portfolio showcasing projects, analytics work, and academic assignments
+</p>
 
-# Hari Chandana Yalavarthi 👋
+<hr>
 
-🎓 Graduate Student – Project Management & Analytics  
-📍 San Jose, CA  
+<h1 style="color:#1a202c;">👋 Hari Chandana Yalavarthi</h1>
+
+<p style="font-size:16px;">
+🎓 <strong>Graduate Student – Project Management & Analytics</strong><br>
+📍 San Jose, CA<br>
 🎯 Aspiring Business Analyst | Data Analyst | Project Management
+</p>
 
----
+<hr>
 
-## About Me
+<h2 style="color:#2f855a;">✨ About Me</h2>
+<p>
 I am a graduate student specializing in Project Management with a strong concentration in analytics. I bring hands-on experience in data analysis, predictive modeling, quality analytics, and project execution through academic, internship, and simulation-based projects. I enjoy translating complex data into clear insights that support strategic, operational, and business decision-making.
+</p>
 
----
+<hr>
 
-## Data & Analytics Projects
+<h2 style="color:#2b6cb0;">📊 Data & Analytics Projects</h2>
 
-### 🔹 Loan Approval Prediction Model
-**Tools:** Python, SQL, Pandas, Scikit-learn, Matplotlib  
-- Built machine learning models including Logistic Regression, Decision Tree, and Random Forest, achieving **92% prediction accuracy**.
-- Conducted feature importance analysis to identify key financial drivers influencing loan decisions.
-- Visualized results to support interpretability and stakeholder-level communication.
+<h3 style="color:#3182ce;">🔹 Loan Approval Prediction Model</h3>
+<p><strong>Tools:</strong> Python, SQL, Pandas, Scikit-learn, Matplotlib</p>
+<ul>
+  <li>Built machine learning models including Logistic Regression, Decision Tree, and Random Forest, achieving <strong>92% prediction accuracy</strong>.</li>
+  <li>Conducted feature importance analysis to identify key financial drivers influencing loan decisions.</li>
+  <li>Visualized results to support interpretability and stakeholder-level communication.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/loan-approval-prediction">GitHub Repository</a>
+</p>
 
-🔗 GitHub Repository: https://github.com/chandana7373/loan-approval-prediction
+<hr>
 
----
+<h3 style="color:#3182ce;">🔹 Customer Churn Analysis</h3>
+<p><strong>Tools:</strong> Python, Machine Learning, Statistical Modeling</p>
+<ul>
+  <li>Designed and evaluated predictive models achieving an <strong>AUC score of 0.82</strong> for churn prediction.</li>
+  <li>Applied LASSO and Ridge regularization techniques to refine significant churn predictors.</li>
+  <li>Delivered actionable insights to support customer retention and engagement strategies.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/Signals-to-Strategy-Telecom-Churn">GitHub Repository</a>
+</p>
 
-### 🔹 Customer Churn Analysis
-**Tools:** Python, Machine Learning, Statistical Modeling  
-- Designed and evaluated predictive models achieving an **AUC score of 0.82** for churn prediction.
-- Applied LASSO and Ridge regularization techniques to refine significant churn predictors.
-- Delivered actionable insights to support customer retention and engagement strategies.
+<hr>
 
-🔗 GitHub Repository: https://github.com/chandana7373/Signals-to-Strategy-Telecom-Churn
+<h3 style="color:#3182ce;">🔹 R Statistical Analysis – Hypothesis Testing</h3>
+<p><strong>Tools:</strong> R, MASS Package</p>
+<ul>
+  <li>Conducted two-sample t-tests to analyze salary differences and experimental outcomes.</li>
+  <li>Interpreted statistical results and communicated insights for non-technical audiences.</li>
+  <li>Applied hypothesis testing concepts to real-world datasets.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/r-t-tests-statistical-analysis">GitHub Repository</a>
+</p>
 
----
+<hr>
 
-### 🔹 R Statistical Analysis – Hypothesis Testing
-**Tools:** R, MASS Package  
-- Conducted two-sample t-tests to analyze salary differences and experimental outcomes.
-- Interpreted statistical results and communicated insights for non-technical audiences.
-- Applied hypothesis testing concepts to real-world datasets.
+<h3 style="color:#3182ce;">🔹 Data Storytelling Dashboard (RShiny)</h3>
+<p><strong>Tools:</strong> R, RShiny, ggplot2, tidyverse</p>
+<ul>
+  <li>Developed an interactive dashboard to communicate analytical insights using data storytelling principles.</li>
+  <li>Designed intuitive visualizations tailored for business stakeholders.</li>
+  <li>Ensured ethical and accurate representation of data.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/rshiny-data-storytelling-dashboard">GitHub Repository</a>
+</p>
 
-🔗 GitHub Repository: https://github.com/chandana7373/r-t-tests-statistical-analysis
+<hr>
 
----
+<h2 style="color:#805ad5;">🗂 Project Management & Quality Projects</h2>
 
-### 🔹 Data Storytelling Dashboard (RShiny)
-**Tools:** R, RShiny, ggplot2, tidyverse  
-- Developed an interactive dashboard to communicate analytical insights using data storytelling principles.
-- Designed intuitive visualizations tailored for business stakeholders.
-- Ensured ethical and accurate representation of data.
+<h3 style="color:#6b46c1;">🔹 Project Execution & Trade-off Simulation</h3>
+<p><strong>Tools:</strong> Project Management Simulation</p>
+<ul>
+  <li>Acted as a Senior Project Manager leading a cross-functional product design team.</li>
+  <li>Evaluated trade-offs between scope, schedule, cost, and resources to optimize outcomes.</li>
+  <li>Analyzed the impact of management decisions on productivity, quality, morale, and cost.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/pm-simulation-scope-schedule-cost">GitHub Repository</a>
+</p>
 
-🔗 GitHub Repository: https://github.com/chandana7373/rshiny-data-storytelling-dashboard
+<hr>
 
----
+<h3 style="color:#6b46c1;">🔹 Project Scheduling & Planning Using Microsoft Project</h3>
+<p><strong>Tools:</strong> MS Project</p>
+<ul>
+  <li>Developed detailed project schedules including WBS, dependencies, milestones, and resource assignments.</li>
+  <li>Performed critical path analysis to identify schedule risks.</li>
+  <li>Used Gantt charts and network diagrams to communicate plans effectively.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/branding-and-website-strategy-project-capstone">GitHub Repository</a>
+</p>
 
-## Project Management & Quality Projects
+<hr>
 
-### 🔹 Project Execution & Trade-off Simulation 
-**Tools:** Project Management Simulation  
-- Acted as a Senior Project Manager leading a cross-functional product design team.
-- Evaluated trade-offs between **scope, schedule, cost, and resources** to optimize outcomes.
-- Analyzed the impact of management decisions on productivity, quality, morale, and cost.
+<h3 style="color:#6b46c1;">🔹 Quality Analytics & Cost of Quality Management (Gainsborough Manufacturing)</h3>
+<p><strong>Tools:</strong> Minitab, Quality Analytics Simulation</p>
+<ul>
+  <li>Assessed process stability and capability using control charts and capability indices.</li>
+  <li>Analyzed prevention, appraisal, internal failure, and external failure costs.</li>
+  <li>Delivered recommendations to improve efficiency and production consistency.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/quality-analytics-process-capability-spc">GitHub Repository</a>
+</p>
 
-🔗 GitHub Repository: https://github.com/chandana7373/pm-simulation-scope-schedule-cost
+<hr>
 
----
+<h3 style="color:#6b46c1;">🔹 Risk Management & Key Risk Indicator (KRI) Analysis – Cisco Case Study</h3>
+<p><strong>Tools:</strong> Risk Analysis, Qualitative & Quantitative Methods</p>
+<ul>
+  <li>Conducted enterprise-level risk identification and assessment.</li>
+  <li>Developed KRIs aligned with strategic and operational risks.</li>
+  <li>Applied NASA Risk Management Handbook principles.</li>
+</ul>
+<p>
+🔗 <a href="https://github.com/chandana7373/project-risk-management-register">GitHub Repository</a>
+</p>
 
-### 🔹 Project Scheduling & Planning Using Microsoft Project
-**Tools:** MS Project  
-- Developed detailed project schedules including WBS, dependencies, milestones, and resource assignments.
-- Performed critical path analysis to identify schedule risks.
-- Used Gantt charts and network diagrams to communicate plans effectively.
+<hr>
 
-🔗 GitHub Repository: https://github.com/chandana7373/branding-and-website-strategy-project-capstone
+<h2 style="color:#2f855a;">🛠 Skills</h2>
+<p>
+<strong>Analytics & Programming:</strong> Python, SQL, R, Excel<br>
+<strong>Visualization & BI:</strong> Tableau, Power BI, RShiny, Matplotlib, Seaborn<br>
+<strong>Project & Process:</strong> MS Project, Agile, Scrum, SDLC, Risk Management, Quality Analytics<br>
+<strong>Statistical Techniques:</strong> Predictive Modeling, Regression, Classification, Hypothesis Testing, Monte Carlo Simulation, SPC<br>
+<strong>Tools:</strong> Git, GitHub, JIRA, Confluence, AWS (S3, EC2 – basic)
+</p>
 
----
+<hr>
 
-### 🔹 Quality Analytics & Cost of Quality Management (Gainsborough Manufacturing)
-**Tools:** Minitab, Quality Analytics Simulation  
-- Assessed process stability and capability using control charts and capability indices.
-- Analyzed prevention, appraisal, internal failure, and external failure costs to minimize total cost of quality.
-- Delivered recommendations to improve efficiency and production consistency.
+<h2 style="color:#2b6cb0;">📄 Resume</h2>
+<p>
+👉 <a href="./Chandana_resume.pdf">Download Resume</a>
+</p>
 
-🔗 GitHub Repository: https://github.com/chandana7373/quality-analytics-process-capability-spc
+<hr>
 
----
-
-### 🔹 Risk Management & Key Risk Indicator (KRI) Analysis – Cisco Case Study
-**Tools:** Risk Analysis, Qualitative & Quantitative Methods  
-- Conducted enterprise-level risk identification and assessment.
-- Developed KRIs aligned with strategic and operational risks.
-- Applied NASA Risk Management Handbook principles to structure risk analysis and reporting.
-
-🔗 GitHub Repository: https://github.com/chandana7373/project-risk-management-register
-
----
-
-## Skills
-
-### Data Analytics & Programming
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL (MySQL, PostgreSQL)
-- R (Statistical Analysis, Hypothesis Testing)
-- Excel (Data Cleaning, Analysis, Reporting)
-
-### Data Visualization & BI Tools
-- Tableau (Interactive Dashboards, KPI Reporting)
-- Power BI (Business Reporting, Data Modeling)
-- Matplotlib, Seaborn
-- RShiny (Interactive Data Storytelling Dashboards)
-
-### Project & Process Management
-- Microsoft Project (Scheduling, WBS, Critical Path)
-- Agile & Scrum Methodologies
-- SDLC & Waterfall
-- Risk Management & KRI Development
-- Quality Analytics & Process Capability Analysis
-
-### Statistical & Analytical Techniques
-- Predictive Modeling
-- Regression Analysis
-- Classification Models
-- Hypothesis Testing (t-tests)
-- Monte Carlo Simulation
-- Control Charts (X-bar, R, NP, C)
-- Cost of Quality Analysis
-
-### Cloud & Collaboration Tools
-- AWS (S3, EC2 – basic exposure)
-- Git & GitHub
-- JIRA
-- Confluence
-
-### Business & Core Skills
-- Business Analysis
-- Process Optimization
-- Stakeholder Communication
-- Requirements Gathering
-- Data Validation & Quality Assurance
-- Reporting & Insight Presentation
-
----
-
-## Resume
-📄 [Download Resume](./Chandana_resume.pdf)
-
----
-
-## Contact
-📧 Email: [chandana.yalavarthi73@gmail.com](mailto:chandana.yalavarthi73@gmail.com)  
-🔗 GitHub: [https://github.com/chandana7373](https://github.com/chandana7373)  
-🔗 LinkedIn: [https://www.linkedin.com/in/chandanayalavarthi/](https://www.linkedin.com/in/chandanayalavarthi/)
-
+<h2 style="color:#2b6cb0;">📬 Contact</h2>
+<p>
+📧 <a href="mailto:chandana.yalavarthi73@gmail.com">chandana.yalavarthi73@gmail.com</a><br>
+🔗 <a href="https://github.com/chandana7373">GitHub</a><br>
+🔗 <a href="https://www.linkedin.com/in/chandanayalavarthi/">LinkedIn</a>
+</p>
