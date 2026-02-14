@@ -143,7 +143,7 @@ I am a graduate student specializing in Project Management with a strong concent
 
 <h2 style="color:#2b6cb0;">📄 Resume</h2>
 <p>
-👉 <a href="./Chandana_yalavarthi_resume.pdf">Download Resume</a>
+👉 <a href="./Chandana_Yalavarthi_Resume.pdf">Download Resume</a>
 </p>
 
 <hr>
